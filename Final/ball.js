@@ -1,6 +1,6 @@
 console.log("hi");
 
-let randomNumber = Math.floor(Math.random() * 10 + 1);
+let randomNumber = Math.floor(Math.random() * 40 + 1);
 let attemptCount = 0;
 
 console.log(" random number is: " + randomNumber);
